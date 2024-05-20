@@ -7,6 +7,7 @@
 h1 {
   font-size: 3.2em;
   line-height: 1.1;
+  color:black
 } 
 
 button {
@@ -51,10 +52,12 @@ button:focus-visible {
 
 .menu-fondo
 {
-  background-image: url(https://media.istockphoto.com/id/987904840/es/vector/desordenada-habitaci%C3%B3n-ni%C3%B1os.jpg?s=612x612&w=0&k=20&c=zyhYnxh47oGepbEOdnCdpLShwvLHTrExFm2epRwV56o=);
+ /* background-image: url(https://media.istockphoto.com/id/987904840/es/vector/desordenada-habitaci%C3%B3n-ni%C3%B1os.jpg?s=612x612&w=0&k=20&c=zyhYnxh47oGepbEOdnCdpLShwvLHTrExFm2epRwV56o=);
   background-size:cover; /* Cubre todo el contenedor */
-  background-position: center; /* Centra la imagen en el contenedor */
-  background-repeat: no-repeat; /* No se repite la imagen */
+  /*background-position: flex; /* Centra la imagen en el contenedor */
+  /*background-repeat: no-repeat; /* No se repite la imagen */
+  width: 1000px;
+  height: 820px;
 }
 
 
